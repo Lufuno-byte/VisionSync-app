@@ -17,9 +17,8 @@ Built to enhance customer experience in optometry practices, VisionSync bridges 
 - Backend integration (planned/ongoing)
 
 👨‍💻 Developed by
-Lufuno Mabasa – IT student, software developer, and founder of L Designs Studio.
+Lufuno Mabasa – Women in IT, software developer, and founder of L Designs Studio.
 
-📦 Getting Started
 ```bash
 git clone https://github.com/Lufuno-byte/VisionSync-app.git
 cd VisionSync-app
