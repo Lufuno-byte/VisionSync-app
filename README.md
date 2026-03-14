@@ -7,7 +7,6 @@ Built to enhance customer experience in optometry practices, VisionSync bridges 
 
 🚀 Key Features
 - 📅 Book eye test appointments with preferred optometrists
-- 🔔 Receive reminders and confirmations for upcoming bookings
 - 👓 Track the progress of glasses orders from processing to pickup
 - 📱 Clean, intuitive interface optimized for mobile users
 
@@ -16,8 +15,8 @@ Built to enhance customer experience in optometry practices, VisionSync bridges 
 - JavaScript
 - Backend integration (planned/ongoing)
 
-👨‍💻 Developed by
-Lufuno Mabasa – Women in IT, software developer, and founder of L Designs Studio.
+👨‍💻 Published By
+Lufuno Mabasa – Women in IT, and founder of L Designs Studio.
 
 ```bash
 git clone https://github.com/Lufuno-byte/VisionSync-app.git
